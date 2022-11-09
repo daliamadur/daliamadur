@@ -1,6 +1,6 @@
-- 🕊  Li, 20
-- 🛠  Beginner, studying computer science in uni
-- 📦  Basic program dump
+- 🕊  21
+- 🛠  Year 1 Comsci
+- 📦  Basic program/Assignment dump
 
 <!---
 lishanlung/lishanlung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
