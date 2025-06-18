@@ -1,4 +1,4 @@
-## 📇 Chel Witter [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cnjlwitter) [![LeetCode](https://github.com/user-attachments/assets/21815a82-7da2-45f0-8939-91d4846a6dda)](https://leetcode.com/u/lishanlung/)
+## 📇 Chel Witter [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cnjlwitter) [![LeetCode](https://github.com/user-attachments/assets/21815a82-7da2-45f0-8939-91d4846a6dda)](https://leetcode.com/u/daliamadur/)
 🎓 Computer Science pre-grad <br>
 🗳️ Currently learning: Data Structures and Algorithms <br>
 
