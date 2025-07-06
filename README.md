@@ -8,8 +8,6 @@ Hi! I'm Chel, a recent computer science grad currently building up my portfolio 
 
 💡 Badges with a 🔗 by them are clickable! ➡️ Example: 🔗[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cnjlwitter)
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/daliamadur?theme=dark&font=Ubuntu%20Mono)
 ---
 
 ### 💾 `General use languages`
@@ -34,6 +32,10 @@ Hi! I'm Chel, a recent computer science grad currently building up my portfolio 
 ![Currently Building](https://custom-icon-badges.demolab.com/badge/Building-3a3a3a.svg?logo=vsc&logoColor=white) <br>
 ![Currently Building](https://custom-icon-badges.demolab.com/badge/Personal_Discord_bot-5865F2)
 ![Currently Building](https://custom-icon-badges.demolab.com/badge/Portfolio_website-11577a)
+
+### 💻 [`Leetcode Stats`](https://leetcode.com/u/daliamadur/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/daliamadur?theme=dark&font=Ubuntu%20Mono)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79px" height="20px" viewBox="0 0 78 20" version="1.1">
