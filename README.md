@@ -31,8 +31,6 @@ Hi! I'm Chel, a recent computer science grad currently building up my portfolio 
 ![Mobile-Development-badge](https://custom-icon-badges.demolab.com/badge/Mobile_Development-6a6a6a.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCI+PC9jaXJjbGU+PHBvbHlsaW5lIHBvaW50cz0iMTIgNiAxMiAxMiAxNiAxNCI+PC9wb2x5bGluZT48L3N2Zz4=) 
 <br><br>
 ![Currently Building](https://custom-icon-badges.demolab.com/badge/Building-3a3a3a.svg?logo=vsc&logoColor=white) <br>
-![Currently Building](https://custom-icon-badges.demolab.com/badge/Personal_Discord_bot-5865F2)
-![Currently Building](https://custom-icon-badges.demolab.com/badge/ToDo_List_App-b73a4b)
 ![Currently Building](https://custom-icon-badges.demolab.com/badge/Portfolio_website-11577a)
 
 ### 💻 [`Leetcode Stats`](https://leetcode.com/u/daliamadur/)
