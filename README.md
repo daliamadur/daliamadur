@@ -13,22 +13,22 @@ Hi! I'm Chel, a computer science graduate currently building up my portfolio ヾ
 ---
 
 ### 💾 `Languages`
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js)](#)
 
 ### 🌐 `Web technologies`
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,flask,sqlite,react,express,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,flask,sqlite,react,express,nodejs)](#)
 
 ### 🖋️ `WIPs`
 
-![Currently Learning badge](https://custom-icon-badges.demolab.com/badge/Learning-3a3a3a.svg?logo=sololearn&logoColor=white) <br>
+[![Currently Learning badge](https://custom-icon-badges.demolab.com/badge/Learning-3a3a3a.svg?logo=sololearn&logoColor=white)](#) <br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 <br><br>
-![Currently Building badge](https://custom-icon-badges.demolab.com/badge/Building-3a3a3a.svg?logo=vsc&logoColor=white) <br>
-![Current Project Badge - Portfolio Website](https://custom-icon-badges.demolab.com/badge/Portfolio_website-11577a)
+[![Currently Building badge](https://custom-icon-badges.demolab.com/badge/Building-3a3a3a.svg?logo=vsc&logoColor=white)](#) <br>
+[![Current Project Badge - Portfolio Website](https://custom-icon-badges.demolab.com/badge/Portfolio_website-11577a)](#)
 
 ### 💻 `Leetcode Stats`
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/daliamadur?theme=dark&font=Ubuntu%20Mono)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/daliamadur?theme=dark&font=Ubuntu%20Mono)](#)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79px" height="20px" viewBox="0 0 78 20" version="1.1">
