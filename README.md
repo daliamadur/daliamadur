@@ -3,7 +3,7 @@ Hi! I'm Chel, a computer science graduate currently building up my portfolio ヾ
 
 #### 💭 I'm currently interested in:
 - 🛠️ Building mental health tools
-- 🌐 Web Development
+- 🌐 Web development
 - 🖌️ UI/UX design
 - 📊 Data analysis
 
