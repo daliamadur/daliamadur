@@ -25,6 +25,7 @@ Hi! I'm Chel, a computer science graduate currently building up my portfolio ヾ
 <br><br>
 [![Currently Building badge](https://custom-icon-badges.demolab.com/badge/Building-3a3a3a.svg?logo=vsc&logoColor=white)](#) <br>
 [![Current Project Badge - Portfolio Website](https://custom-icon-badges.demolab.com/badge/Portfolio_website-11577a)](#)
+[![Current Project Badge - Productivity Dashboard](https://custom-icon-badges.demolab.com/badge/Productivity_dashboard-1C358D)](#)
 
 ### 💻 `Leetcode Stats`
 
