@@ -7,25 +7,28 @@ Hi! I'm Chel, a computer science graduate currently building up my portfolio ヾ
 - 🖌️ UI/UX design
 - 📊 Data analysis
 
-#### 🤝 Connect with me!
+#### 🤝 Here is where you can find me!
 🔗[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/cnjlwitter)
-🔗[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/daliamadur/)
+🔗[![LeetCode](https://img.shields.io/badge/LeetCode-232323?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/daliamadur/)
+🔗 [![Hackerrank badge](https://img.shields.io/badge/Hackerrank-232323?style=flat&logo=HackerRank&logoColor=00EA64)](https://www.hackerrank.com/profile/daliamadur)
 ---
 
 ### 💾 `Languages`
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js)](#)
+[![Language skill icons](https://skillicons.dev/icons?i=py,c,cpp,java,js)](#)
 
 ### 🌐 `Web technologies`
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,flask,sqlite,react,express,nodejs)](#)
+[![Frontend skill icons](https://skillicons.dev/icons?i=html,css,react)](#)
+
+[![Backend skill icons](https://skillicons.dev/icons?i=django,flask,sqlite,express,nodejs)](#)
 
 ### 🖋️ `WIPs`
 
 [![Currently Learning badge](https://custom-icon-badges.demolab.com/badge/Learning-3a3a3a.svg?logo=sololearn&logoColor=white)](#) <br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 <br><br>
 [![Currently Building badge](https://custom-icon-badges.demolab.com/badge/Building-3a3a3a.svg?logo=vsc&logoColor=white)](#) <br>
-[![Current Project Badge - Portfolio Website](https://custom-icon-badges.demolab.com/badge/Portfolio_website-11577a)](#)
-[![Current Project Badge - Productivity Dashboard](https://custom-icon-badges.demolab.com/badge/Productivity_dashboard-1C358D)](#)
+[![Current Project Badge - Portfolio Website](https://custom-icon-badges.demolab.com/badge/Portfolio_website-11577a.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDhweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSI0OHB4IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMzYwLTQxMGgyNjBxMzcuOCAwIDYzLjktMjYuNjF0MjYuMS02NC41UTcxMC01MzkgNjgyLjk0LTU2NVQ2MTgtNTkxaC05bC0xLTlxLTctNDgtNDMuMjYtNzktMzYuMjctMzEtODQuNjItMzFRNDQyLTcxMCA0MTEtNjkwcS0zMSAyMC00OCA1NWwtMyA1LTYgMXEtNDMuNzkgMS44My03My44OSAzMy40OFEyNTAtNTYzLjg4IDI1MC01MTkuODYgMjUwLTQ3NCAyODIuMDgtNDQycTMyLjA5IDMyIDc3LjkyIDMyWm0wLTYwcS0yMS4yNSAwLTM1LjYyLTE0LjMyUTMxMC00OTguNjUgMzEwLTUxOS44MnEwLTIxLjE4IDE0LjM4LTM1LjY4UTMzOC43NS01NzAgMzYwLTU3MGg0MHEwLTMzLjE0IDIzLjQtNTYuNTdUNDc5LjktNjUwcTMzLjEgMCA1Ni42IDIzLjQzVDU2MC01NzB2NDBoNjBxMTMgMCAyMS41IDguNVQ2NTAtNTAwcTAgMTMtOC41IDIxLjVUNjIwLTQ3MEgzNjBabTYwIDI5MHYtMTAwSDE0MHEtMjQgMC00Mi0xOHQtMTgtNDJ2LTQ0MHEwLTI0IDE4LTQydDQyLTE4aDY4MHEyNCAwIDQyIDE4dDE4IDQydjQ0MHEwIDI0LTE4IDQydC00MiAxOEg1NDB2MTAwaDU2cTEyLjc1IDAgMjEuMzggOC42OCA4LjYyIDguNjcgOC42MiAyMS41IDAgMTIuODItOC42MiAyMS4zMi04LjYzIDguNS0yMS4zOCA4LjVIMzY0cS0xMi43NSAwLTIxLjM3LTguNjgtOC42My04LjY3LTguNjMtMjEuNSAwLTEyLjgyIDguNjMtMjEuMzIgOC42Mi04LjUgMjEuMzctOC41aDU2Wk0xNDAtMzQwaDY4MHYtNDQwSDE0MHY0NDBabTAgMHYtNDQwIDQ0MFoiLz48L3N2Zz4=)](#)
+[![Current Project Badge - Productivity Dashboard](https://custom-icon-badges.demolab.com/badge/Productivity_dashboard-1C358D.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDhweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSI0OHB4IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNNDIwLTE4MHYtMTAwSDE0MHEtMjQgMC00Mi0xOHQtMTgtNDJ2LTQ0MHEwLTI0IDE4LTQydDQyLTE4aDY4MHEyNCAwIDQyIDE4dDE4IDQydjQ0MHEwIDI0LTE4IDQydC00MiAxOEg1NDB2MTAwaDU2cTEyLjc1IDAgMjEuMzggOC42OCA4LjYyIDguNjcgOC42MiAyMS41IDAgMTIuODItOC42MiAyMS4zMi04LjYzIDguNS0yMS4zOCA4LjVIMzY0cS0xMi43NSAwLTIxLjM3LTguNjgtOC42My04LjY3LTguNjMtMjEuNSAwLTEyLjgyIDguNjMtMjEuMzIgOC42Mi04LjUgMjEuMzctOC41aDU2Wk0xNDAtMzQwaDY4MHYtNDQwSDE0MHY0NDBabTAgMHYtNDQwIDQ0MFoiLz48L3N2Zz4=)](#)
 
 ### 💻 `Leetcode Stats`
 
