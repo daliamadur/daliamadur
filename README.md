@@ -10,7 +10,7 @@ Hi! I'm Chel, a computer science graduate currently building up my portfolio ヾ
 #### 🤝 Here is where you can find me!
 🔗[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/cnjlwitter)
 🔗[![LeetCode](https://img.shields.io/badge/LeetCode-232323?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/daliamadur/)
-🔗 [![Hackerrank badge](https://img.shields.io/badge/Hackerrank-232323?style=flat&logo=HackerRank&logoColor=00EA64)](https://www.hackerrank.com/profile/daliamadur)
+🔗[![Hackerrank badge](https://img.shields.io/badge/Hackerrank-232323?style=flat&logo=HackerRank&logoColor=00EA64)](https://www.hackerrank.com/profile/daliamadur)
 ---
 
 ### 💾 `Languages`
