@@ -14,21 +14,21 @@ Hi! I'm Chel, a computer science graduate currently building up my portfolio ヾ
 ---
 
 ### 💾 `Languages`
-[![Language skill icons](https://skillicons.dev/icons?i=py,c,cpp,java,js)](#)
+[![Language skill icons - python, c, c++, java and javascript](https://skillicons.dev/icons?i=py,c,cpp,java,js)](#)
 
 ### 🌐 `Web technologies`
-[![Frontend skill icons](https://skillicons.dev/icons?i=html,css,react)](#)
+[![Frontend skill icons - html, css and react](https://skillicons.dev/icons?i=html,css,react)](#)
 
-[![Backend skill icons](https://skillicons.dev/icons?i=django,flask,sqlite,express,nodejs)](#)
+[![Backend skill icons - django, flask, sqlite, expressjs and node js](https://skillicons.dev/icons?i=django,flask,sqlite,express,nodejs)](#)
 
 ### 🖊️ `WIPs`
 
 [![Currently Learning badge](https://custom-icon-badges.demolab.com/badge/Learning-3a3a3a.svg?logo=sololearn&logoColor=white)](#) <br>
-[![Coursera_badge](https://img.shields.io/badge/Google_UX_Design_Professional_Certificate-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/google-certificates/ux-design-certificate)
-[![Alison_badge](https://custom-icon-badges.demolab.com/badge/Advanced_Diploma_in_Python_Programming-465159.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iODUwIiBoZWlnaHQ9Ijg1MCIgdmlld0JveD0iMCAwIDg1MCA4NTAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik02NDYuMDYgNTEzLjY3SDgyNUw3NDkuNzkgNjkxTDc0OS41MSA2OTAuOTA3TDc0OS41NjQgNjkxSDU0Mi41NDRMMzM1LjUyNSAzMzYuMzM0TDEyOC41MDcgNjkxTDI1IDUxMy42N0wyMzIuMDE5IDE1OUg0MzkuMDM4TDY0Ni4wNiA1MTMuNjdaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNDM5LjAzOCA2OTFIMjMyLjAxOUwzMzUuNTI1IDUxMy42N0w0MzkuMDM4IDY5MVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==)](https://alison.com/course/advanced-diploma-in-python-programming-for-the-novice-to-expert)
+[![Coursera_badge - Google UX Design Professional Certificate](https://img.shields.io/badge/Google_UX_Design_Professional_Certificate-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/google-certificates/ux-design-certificate)
 <br><br>
 [![Currently Building badge](https://custom-icon-badges.demolab.com/badge/Building-3a3a3a.svg?logo=vsc&logoColor=white)](#) <br>
-[![Current Project Badge - Portfolio Website](https://custom-icon-badges.demolab.com/badge/Portfolio_website-11577a.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDhweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSI0OHB4IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMzYwLTQxMGgyNjBxMzcuOCAwIDYzLjktMjYuNjF0MjYuMS02NC41UTcxMC01MzkgNjgyLjk0LTU2NVQ2MTgtNTkxaC05bC0xLTlxLTctNDgtNDMuMjYtNzktMzYuMjctMzEtODQuNjItMzFRNDQyLTcxMCA0MTEtNjkwcS0zMSAyMC00OCA1NWwtMyA1LTYgMXEtNDMuNzkgMS44My03My44OSAzMy40OFEyNTAtNTYzLjg4IDI1MC01MTkuODYgMjUwLTQ3NCAyODIuMDgtNDQycTMyLjA5IDMyIDc3LjkyIDMyWm0wLTYwcS0yMS4yNSAwLTM1LjYyLTE0LjMyUTMxMC00OTguNjUgMzEwLTUxOS44MnEwLTIxLjE4IDE0LjM4LTM1LjY4UTMzOC43NS01NzAgMzYwLTU3MGg0MHEwLTMzLjE0IDIzLjQtNTYuNTdUNDc5LjktNjUwcTMzLjEgMCA1Ni42IDIzLjQzVDU2MC01NzB2NDBoNjBxMTMgMCAyMS41IDguNVQ2NTAtNTAwcTAgMTMtOC41IDIxLjVUNjIwLTQ3MEgzNjBabTYwIDI5MHYtMTAwSDE0MHEtMjQgMC00Mi0xOHQtMTgtNDJ2LTQ0MHEwLTI0IDE4LTQydDQyLTE4aDY4MHEyNCAwIDQyIDE4dDE4IDQydjQ0MHEwIDI0LTE4IDQydC00MiAxOEg1NDB2MTAwaDU2cTEyLjc1IDAgMjEuMzggOC42OCA4LjYyIDguNjcgOC42MiAyMS41IDAgMTIuODItOC42MiAyMS4zMi04LjYzIDguNS0yMS4zOCA4LjVIMzY0cS0xMi43NSAwLTIxLjM3LTguNjgtOC42My04LjY3LTguNjMtMjEuNSAwLTEyLjgyIDguNjMtMjEuMzIgOC42Mi04LjUgMjEuMzctOC41aDU2Wk0xNDAtMzQwaDY4MHYtNDQwSDE0MHY0NDBabTAgMHYtNDQwIDQ0MFoiLz48L3N2Zz4=)](#)
+[![Current Project Badge - Task loadout prototype](https://custom-icon-badges.demolab.com/badge/Task_loadout_app_prototype-3c6469.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZTNlM2UzIj48cGF0aCBkPSJNMTYwLTE2MHEtMzMgMC01Ni41LTIzLjVUODAtMjQwdi00ODBxMC0zMyAyMy41LTU2LjVUMTYwLTgwMGg2NDBxMzMgMCA1Ni41IDIzLjVUODgwLTcyMHY0ODBxMCAzMy0yMy41IDU2LjVUODAwLTE2MEgxNjBabTAtODBoNjQwdi00MDBIMTYwdjQwMFptMTQwLTQwLTU2LTU2IDEwMy0xMDQtMTA0LTEwNCA1Ny01NiAxNjAgMTYwLTE2MCAxNjBabTE4MCAwdi04MGgyNDB2ODBINDgwWiIvPjwvc3ZnPg==)](#)
+[![Current Project Badge - Title](https://custom-icon-badges.demolab.com/badge/Travel_+_Carpool_app_case_study-b88b1c.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDhweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSI0OHB4IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJtMzU3LTUxMyA5MC05MC03NS03NS0yNyAyN3EtOSA5LTIxIDl0LTIxLTlxLTktOS05LTIxdDktMjFsMjctMjctNzUtNzQtOTAgOTAgMTkyIDE5MVptMzQ2IDM0OCA5MC05MS03NS03NS0yNyAyN3EtOSA5LTIxIDl0LTIxLTlxLTktOS05LTIxdDktMjFsMjctMjctNzQtNzQtOTAgOTAgMTkxIDE5MlptOC02MTUgNzAgNzAtNzAtNzBaTTE1MC0xMjBxLTEzIDAtMjEuNS04LjVUMTIwLTE1MHYtMTE0cTAtNiAyLTExdDctMTBsMTg1LTE4NS0yMDItMjAycS0xNC0xNC0xMy41LTMydDEzLjUtMzJsMTEwLTExMnExNC0xNCAzMi0xNHQzMiAxNGwyMDQgMjAzIDE3OC0xNzhxOS05IDIwLTEzdDIyLTRxMTEgMCAyMiA0dDIwIDEzbDcxIDcxcTkgOSAxMyAyMHQ0IDIycTAgMTEtNCAyMnQtMTMgMjBMNjQ1LTQ5MGwyMDMgMjAzcTE0IDE0IDE0IDMydC0xNCAzMkw3MzctMTEzcS0xNCAxNC0zMiAxNHQtMzItMTRMNDcxLTMxNSAyODUtMTI5cS01IDUtMTAgN3QtMTEgMkgxNTBabTMwLTYwaDcwbDM5My0zOTQtNzAtNzAtMzkzIDM5NHY3MFptNDI4LTQyOS0zNS0zNSA3MCA3MC0zNS0zNVoiLz48L3N2Zz4=)](#)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79px" height="20px" viewBox="0 0 78 20" version="1.1">
